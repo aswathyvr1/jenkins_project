@@ -1,2 +1,2 @@
-addmake: add.c
-	gcc -o addmake add.c -I.
+submake: sub.c
+	gcc -0 submake sub.c -I.
